@@ -1,0 +1,14 @@
+F:\GeekBrains\final_work\final_work\bin\Debug\net8.0\final_work.exe
+F:\GeekBrains\final_work\final_work\bin\Debug\net8.0\final_work.deps.json
+F:\GeekBrains\final_work\final_work\bin\Debug\net8.0\final_work.runtimeconfig.json
+F:\GeekBrains\final_work\final_work\bin\Debug\net8.0\final_work.dll
+F:\GeekBrains\final_work\final_work\bin\Debug\net8.0\final_work.pdb
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.AssemblyInfoInputs.cache
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.AssemblyInfo.cs
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.csproj.CoreCompileInputs.cache
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.dll
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\refint\final_work.dll
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.pdb
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\final_work.genruntimeconfig.cache
+F:\GeekBrains\final_work\final_work\obj\Debug\net8.0\ref\final_work.dll
